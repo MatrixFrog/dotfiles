@@ -1,0 +1,12 @@
+[user]
+	name = Tyler Breisacher
+	email = matrixfrog@gmail.com
+[alias]
+	st = status -sb
+	amend = commit --amend --reuse-message=HEAD
+[core]
+	excludesfile = /home/tbreisacher/.gitignore
+[init]
+	defaultBranch = main
+[log]
+	date = local
