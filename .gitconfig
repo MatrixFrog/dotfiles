@@ -8,5 +8,7 @@
 	excludesfile = /home/tbreisacher/.gitignore
 [init]
 	defaultBranch = main
+[push]
+	autoSetupRemote = true
 [log]
 	date = local
