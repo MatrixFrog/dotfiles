@@ -12,3 +12,5 @@
 	autoSetupRemote = true
 [log]
 	date = local
+[pager]
+	branch = false
